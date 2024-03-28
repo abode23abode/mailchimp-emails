@@ -1,0 +1,14 @@
+
+  @media(max-width:460px)
+  {
+   .mobback{
+  background-image : -webkit-linear-gradient(90deg, #198754 50%, #101820 50%) !important
+   }
+   .mobbackk{
+    background-image : -webkit-linear-gradient(90deg, #ffc107 50%, #101820 50%) !important
+     }
+     .hur{
+        width: 100%;
+        padding-left: 15px !important; 
+     }
+  }
